@@ -1,4 +1,7 @@
-ls =list all the files
-ls -a =list all the files including hidden
-ls -i = list of files along with inode number
-lsof =list of opened files
+ls	= list all the files
+ls -a	= list all the files including hidden
+ls -i 	= list of files along with inode number
+lsof 	= list of opened files
+ls -l 	= long list
+ls -lt 	= long list and sorted according to the modified time
+ls -lrt	= sorted according to the time reverse
