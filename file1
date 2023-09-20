@@ -1,2 +1,3 @@
 ls =list all the files
 ls -a =list all the files including hidden
+ls -i = list of files along with inode number
